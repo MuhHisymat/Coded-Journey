@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558207107099",
+    "project_id": "coded-journey",
+    "storage_bucket": "coded-journey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558207107099:android:655f72dd3d5003824a78be",
+        "android_client_info": {
+          "package_name": "com.example.codedjourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558207107099-r4nd4nfm8lnvheknhhfqfgq8cn0i36r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmu5E2T8kHmZUX6g6ZndPRrt0xBJlRR9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558207107099-r4nd4nfm8lnvheknhhfqfgq8cn0i36r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
